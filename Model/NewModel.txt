@@ -1,0 +1,1 @@
+Am adaugat folder-ul 'DTO'. Acesta contine pentru fiecare entitate din Model cate un DTO. Restul este la fel ca la proiectul anterior.

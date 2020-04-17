@@ -1,0 +1,2 @@
+Am adaugat folderul 'Factories'. Contine cate un 'factory' pentru fiecare entitate din Model. Ajuta la unele functii din API.
+Am adaugat fisierul API.cs, iar acesta contine efectiv functiile API-ului.
